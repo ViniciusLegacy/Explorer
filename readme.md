@@ -1,4 +1,4 @@
-## HTML - HyperText Markup Language
+# HTML - HyperText Markup Language
 
 - HyperText?
 - Markup?
@@ -7,9 +7,9 @@
 - Quando uma tag HTML não tem conteúdo ela fecha em si mesma;
 - Ex: <input />
 
-## CSS - Cascading Style Sheets
+# CSS - Cascading Style Sheets
 
-# Declaração
+## Declaração
 
 - Seletor - Nome do elemento que você vai estilizar;
 - Ex: Tag, ID (#), Class;
@@ -20,7 +20,7 @@
 - Valor - O novo valor de estilo em si;
 - Ex: vermelho, 12px;
 
-# Conceitos
+## Conceitos
 
 - Cascata - Vai pegar o ultimo valor declarado;
 
@@ -31,7 +31,7 @@
 - Ex: margin, border, padding, height, width;
 - Dica: Use um border na caixa para saber como os elementos estão organizados dentro dela;
 
-## JavaScript
+# JavaScript
 
 - Variáveis - Serve para alocar um espaço na memória e atribuir um valor a esse espaço;
 
